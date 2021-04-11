@@ -1,3 +1,5 @@
 print("Hello world!")
+print("Hello sunshine")
+print("3+4=7")
 print("123")
 print("xD")
